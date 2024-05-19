@@ -15,7 +15,7 @@ function App() {
         <Navbar />
         <Routes>
           <Route exact path="/" Component={Home}/>
-          <Route path="/about" component={About}/>
+          <Route path="/abouts" component={About}/>
         </Routes>
       </BrowserRouter>
     </>
