@@ -1,0 +1,284 @@
+body{
+    font-family: poppins;
+}
+
+.side-img img {
+    max-width: 670px;
+    height: 490px;
+}
+
+.back{
+    background-image: url(../public/back.png);
+    width: 100%;
+    background-size: 100% 100%;
+    padding-bottom: 70px;
+
+}
+
+.container{
+    max-width: 1200px;
+    margin: auto;
+}
+
+.back h1{
+    font-weight: 600;
+    font-size: 54px;
+}
+
+.back p{
+    font-size: 16px;
+}
+
+.back button{
+    padding: 10px 15px;
+    background-color: #FFA761;
+    border: 3px solid white;
+    border-radius: 4px;
+    box-shadow: 0px 0px 20px 0px #00000047; 
+    color: white;
+}
+
+.book{
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.book h1{
+    font-size: 45px;
+    }
+.book p {
+  font-size: 18px;
+  max-width: 700px;
+  margin: auto;
+  color: #4B4B4B;
+}
+
+.boxes{
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+.txt-bx {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    text-align: left;
+    padding: 15px;
+
+}
+
+.txt h3{
+    font-size:  22px;
+    color: #1B2F75      ;
+}
+
+.txt p{
+    font-size: 14px;
+    margin: 0px;
+}
+
+.bk-btn button{
+    font-size: 14px;
+    background-color: #FFA761;
+    color: white;
+    border: none;
+    border-radius: 3px;
+}
+
+.bk-btn button:hover{
+    background-color: #1B2F75;
+    transition: all 0.3s ease;
+}
+
+.box-1{
+      max-width: 296px;
+    display: inline-block;
+    box-shadow: 0px 0px 30px 4px #0000001a;
+    padding-bottom: 3px;
+    border-radius: 10px;
+}
+
+.see button{
+    padding: 5px 15px;
+    background-color: #FFA761;
+    border: 3px solid white;
+    border-radius: 4px;
+    box-shadow: 0px 0px 20px 0px #00000047; 
+    color: white;
+}
+
+.see{
+    margin: auto;
+    text-align: center;
+    margin-top: 40px;
+}
+
+.subjects{
+    background-image: url(../public/subject.png);
+    background-size: cover;
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+
+.left{
+    width: 100%;
+}
+
+.left img{
+    width: 100%;
+}
+
+.book1{
+    text-align: left;
+    padding-top: 115px;
+    padding-bottom: 50px;
+    
+}
+.book1 h1{
+    font-size: 45px;
+    }
+.book1 p {
+  font-size: 18px;
+  max-width: 700px;
+  margin: auto;
+  color: #4B4B4B;
+}
+
+.sub1{
+    display: flex;
+    align-items: center;
+    padding-top: 0px;
+}
+
+.txts1 h3{
+    font-size: 25px;
+    margin: 0px;
+    color: white;
+}
+
+.txts1{
+    background: linear-gradient(90deg, rgba(255,167,97,1) 0%, rgba(153,100,58,1) 100%);
+    padding: 5px 15px;
+    border-radius: 5px;
+}
+
+.icon1 img{
+width: 70px;
+position: relative;
+top: 3px;
+}
+
+
+.side1{
+    padding-top: 20px;
+}
+
+
+
+
+ 
+
+  
+.hv1:hover {
+    transition:0.5s;
+    transform:scale(1.1);
+  }
+  
+  .hv1 {
+    transition:0.5s;
+  }
+ 
+  .hv2:hover {
+    transition:0.5s;
+    transform:scale(1.1);
+  }
+  
+  .hv2 {
+    transition:0.5s;
+  }
+
+  .hv3:hover {
+    transition:0.5s;
+    transform:scale(1.1);
+  }
+  
+  .hv3 {
+    transition:0.5s;
+  }
+  .hv4:hover {
+    transition:0.5s;
+    transform:scale(1.1);
+  }
+  
+  .hv4 {
+    transition:0.5s;
+  }
+
+  .hv5:hover {
+    transition:0.5s;
+    transform:scale(1.1);
+  }
+  
+  .hv5 {
+    transition:0.5s;
+  }
+
+  .hv6:hover {
+    transition:0.5s;
+    transform:scale(1.1);
+  }
+  
+  .hv6 {
+    transition:0.5s;
+  }
+
+  .hv7:hover {
+    transition:0.5s;
+    transform:scale(1.1);
+  }
+  
+  .hv7 {
+    transition:0.5s;
+  }
+
+  .hv8:hover {
+    transition:0.5s;
+    transform:scale(1.1);
+  }
+  
+  .hv8 {
+    transition:0.5s;
+  }
+
+
+.tut{
+  max-width: 900px;
+  margin: auto;
+  text-align: center;
+  padding:80px 80px;
+}
+
+.tut h3{
+  color: #FFA761;
+  font-size:24px;
+}
+.tut h1{
+  color: #1B2F75;
+  font-size: 45px;
+}
+.tut p{
+  font-size: 18px;
+  color: #667085;
+}
+
+
+
+
+
+
+
+
+
+
+
+
